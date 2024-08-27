@@ -16,18 +16,18 @@ This project is a simple implementation of Google Maps using React. It allows us
    git clone https://github.com/KerlosSoNy/Google-Map.git
    ```
    
-2-Navigate to the project directory:
+2. Navigate to the project directory:
 
    ```bash
    cd Google-Map
    ```
-3-Install dependencies:
+3. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4-Obtain a Google Maps API Key:
+4. Obtain a Google Maps API Key:
 
 Visit the Google Cloud Console.
 Create a new project or use an existing one.
@@ -48,7 +48,11 @@ Contributing
 If you'd like to contribute to this project, please follow these steps:
 
 1-Fork the repository.
+
 2-Create a new branch with your feature or bugfix.
+
 3-Make your changes and commit them.
+
 4-Push to your branch.
+
 5-Create a pull request.
