@@ -17,6 +17,7 @@ This project is a simple implementation of Google Maps using React. It allows us
    ```
    
 2-Navigate to the project directory:
+
    ```bash
    cd Google-Map
    ```
