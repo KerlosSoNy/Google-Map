@@ -14,12 +14,17 @@ This project is a simple implementation of Google Maps using React. It allows us
 
    ```bash
    git clone https://github.com/KerlosSoNy/Google-Map.git
+   ```
    
 2-Navigate to the project directory:
-cd Google-Map
-
+   ```bash
+   cd Google-Map
+   ```
 3-Install dependencies:
-npm install
+
+   ```bash
+   npm install
+   ```
 
 4-Obtain a Google Maps API Key:
 
