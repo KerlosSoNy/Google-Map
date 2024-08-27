@@ -56,3 +56,10 @@ If you'd like to contribute to this project, please follow these steps:
 4-Push to your branch.
 
 5-Create a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgments
+React
+Google Maps JavaScript API
