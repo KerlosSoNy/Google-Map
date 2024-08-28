@@ -43,13 +43,6 @@ const MapEventsHandler = ({ multi = true, setCurrentBoundaries, setPositions, po
         map.addListener('bounds_changed', handleMoveEnd);
         map.addListener('dragend', handleMoveEnd);
         map.addListener('dblclick', handleDoubleClick);
-
-        // Cleanup event listeners on component unmount
-        return () => {
-            google.maps.event.clearListeners(map, 'bounds_changed');
-            google.maps.event.clearListeners(map, 'dragend');
-            google.maps.event.clearListeners(map, 'dblclick');
-        };
     }, [map, addStatus, multi, positions, setCurrentBoundaries, setPositions, setAddAnotherPoint]);
 
     return null;
